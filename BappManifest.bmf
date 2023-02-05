@@ -1,7 +1,7 @@
 Uuid: 2495f6fb364d48c3b6c984e226c02968
 ExtensionType: 1
-Name: Collaborator Everywhere
-RepoName: collaborator-everywhere
+Name: Collaborator RCE Everywhere
+RepoName: collaborator-rce-everywhere
 ScreenVersion: 1.2
 SerialVersion: 5
 MinPlatformVersion: 0
